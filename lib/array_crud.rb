@@ -6,7 +6,7 @@ def create_an_array
   ["ESO", "WoW", "The Last of Us", "The Last of Us 2"]
 end
 
-def add_element_to_end_of_array(array, element)
+def add_element_to_end_of_array
   ["wow", "I", "am", "really", "learning"]
   add_element_to_end_of_array.push("arrays!")
 end
